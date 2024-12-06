@@ -1,7 +1,7 @@
 
 # Chatbot with Multilingual Support and FAQ Retrieval
 
-![Chatbot Banner](https://via.placeholder.com/1200x400?text=Chatbot+Multilingual+Support)
+![Chatbot Banner](https://img.freepik.com/free-vector/voice-assistant-abstract-concept-vector-illustration_335657-3969.jpg)
 
 ## Overview
 
@@ -200,12 +200,5 @@ For any questions or feedback, feel free to contact:
 - **Email**: [Nisheetag@gmail.com](mailto:Nisheetag@gmail.com)  
 - **Phone**: (+91) 8586086184
 
----
 
-### Screenshot
 
-![Chatbot Screenshot](https://via.placeholder.com/800x400?text=Chatbot+UI+Screenshot)
-
----
-
-Feel free to modify this README file as needed to suit your project’s specific details.
